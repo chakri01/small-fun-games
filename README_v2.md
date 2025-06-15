@@ -1,4 +1,3 @@
-# small-fun-games
 # Chakri01's Fun Games
 
 Welcome to my collection of small, fun web games! This repository serves as a central hub for a variety of simple and entertaining games that you can play directly in your browser.
@@ -26,6 +25,10 @@ small-fun-games/
 │   │   ├── index.html
 │   │   ├── script.js
 │   │   └── style.css
+│   ├── crazytetris/   #Directory for crazy tetris game
+│   │   ├── index.html
+│   │   ├── script.js
+│   │   └── style.css
 │   └── ...            # Other simple games
 └── README.md          # This file
 ```
@@ -34,19 +37,16 @@ small-fun-games/
 
 ### Games Hosted Within This Repository
 
-These games are simple and self-contained within this repository. You can play them directly by opening the `index.html` file in the respective game directory.
+These games are simple and self-contained within this repository. You can play them directly by opening the `index.html` file in the respective game directory **in your web browser**.
 
 *   **Calculator with Secrets (`games/calculator/`)**: A simple calculator with hidden quotes and game links revealed by entering specific codes.
+*   **Crazy Tetris (`games/crazytetris/`)**: Tetris with random gravity flips and other crazy modifications.
 
-### Games Hosted in Separate Repositories
 
-These games are more complex and have their own dedicated repositories on GitHub. Click the links below to view the repositories and play the games.
-
-*   [Another Fun Game](https://github.com/chakri01/another-fun-game) - (Replace with the actual link to your other repository).
 
 ## How to Play
 
-1.  **Browse to the Landing Page:** Open the `index.html` file in your browser, or visit the deployed version of this repository (if available).
+1.  **Browse to the Landing Page:** Open the `index.html` file in your browser by double-clicking it, or visit the deployed version of this repository (if available) by entering the URL in your browser's address bar.
 2.  **Choose a Game:** Click on the link for the game you want to play.
 3.  **Follow Instructions:** Each game will have its own instructions on how to play.
 
@@ -67,4 +67,4 @@ Please follow these guidelines when contributing:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.  (You should create a LICENSE file if you intend to use the MIT license).
+This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
